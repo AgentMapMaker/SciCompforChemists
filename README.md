@@ -1,4 +1,4 @@
-# Scientific Computing for Chemists with Python.
+# Scientific Computing for Chemists with Python
 
 The following is the textbook used for the Scientific Computing Chemists course intended to teach chemists and chemistry students basic computer programming in Python and Jupyter Notebooks and advanced tools for processing, visualization, and analysis of digital data. 
 
